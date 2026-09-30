@@ -1,16 +1,15 @@
-## Hi there 👋
+# Gabriel Belmonte
 
-<!--
-**Belmontezz/Belmontezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou técnico em Informática e estudante de Redes de Computadores. Busco oportunidades nas áreas de infraestrutura, suporte e cibersegurança.
 
-Here are some ideas to get you started:
+## Conhecimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Redes: TCP/IP e VLANs
+- Sistemas e infraestrutura: Linux, Cloud Computing e suporte N1
+- Desenvolvimento: PHP, Java, C, MySQL e desenvolvimento web
+
+## Onde me encontrar
+
+- [GitHub](https://github.com/Belmontezz)
+- [LinkedIn](https://www.linkedin.com/in/gabrielbelmontez/)
+- E-mail: gabrielbelmontemdossantos@gmail.com
