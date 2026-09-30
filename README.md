@@ -14,11 +14,14 @@ Interesse em infraestrutura, suporte e cibersegurança.
 
 ### Redes e infraestrutura
 
+<img src="./assets/redes.png" width="70" alt="Ícone de redes">
+
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1F6FEB?style=flat&logo=cisco&logoColor=white)
 ![VLANs](https://img.shields.io/badge/VLANs-1F6FEB?style=flat&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Suporte N1](https://img.shields.io/badge/Suporte_N1-333333?style=flat&logo=linux&logoColor=white)
+
+<img src="./assets/linux.png" width="45" alt="Linux"> ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white)
 
 ### Desenvolvimento
 
@@ -29,6 +32,8 @@ Interesse em infraestrutura, suporte e cibersegurança.
 ![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento_Web-E34F26?style=flat&logo=html5&logoColor=white)
 
 ## Contato
+
+<img src="./assets/contato.png" width="70" alt="Ícone de contato">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Belmonte-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbelmontez/)
 [![GitHub](https://img.shields.io/badge/GitHub-Belmontezz-181717?style=flat&logo=github&logoColor=white)](https://github.com/Belmontezz)
