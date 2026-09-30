@@ -1,40 +1,48 @@
-<div align="center">
+# 👨🏻‍💻 Gabriel Belmonte
 
-# Gabriel Belmonte
+**`Técnico em Informática | Estudante de Redes de Computadores`**
 
-**Técnico em Informática | Estudante de Redes de Computadores**
+Sou técnico em Informática e atualmente curso Redes de Computadores. Busco uma oportunidade de nível inicial nas áreas de infraestrutura, suporte ou cibersegurança.
 
-Interesse em infraestrutura, suporte e cibersegurança.
-
-</div>
+<p align="left">
+  <a href="https://github.com/Belmontezz">
+    <img alt="GitHub" title="Meu GitHub" src="https://img.shields.io/badge/GitHub-Belmontezz-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/gabrielbelmontez/">
+    <img alt="LinkedIn" title="Meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel_Belmonte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:gabrielbelmontemdossantos@gmail.com">
+    <img alt="E-mail" title="Enviar e-mail" src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## Conhecimentos
+### 🌐 Redes e infraestrutura
 
-### Redes e infraestrutura
+<img align="left" alt="Redes" title="Redes de Computadores" width="36px" style="padding-right: 10px;" src="./assets/redes.png">
+<img align="left" alt="TCP/IP e VLANs" title="TCP/IP e VLANs" width="36px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/cisco/1BA0D7">
+<img align="left" alt="Linux" title="Linux" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+<img align="left" alt="Cloud Computing" title="Cloud Computing" width="36px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/googlecloud/4285F4">
+<img align="left" alt="Suporte N1" title="Suporte N1" width="36px" style="padding-right: 10px;" src="./assets/contato.png">
 
-<img src="./assets/redes.png" width="70" alt="Ícone de redes">
+<br>
+<br>
 
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1F6FEB?style=flat&logo=cisco&logoColor=white)
-![VLANs](https://img.shields.io/badge/VLANs-1F6FEB?style=flat&logo=cisco&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Suporte N1](https://img.shields.io/badge/Suporte_N1-333333?style=flat&logo=linux&logoColor=white)
+### 💻 Linguagens e tecnologias
 
-<img src="./assets/linux.png" width="45" alt="Linux"> ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white)
+<img align="left" alt="Java" title="Java" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+<img align="left" alt="PHP" title="PHP" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+<img align="left" alt="C" title="Linguagem C" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+<img align="left" alt="MySQL" title="MySQL" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+<img align="left" alt="Desenvolvimento Web" title="Desenvolvimento Web" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 
-### Desenvolvimento
+<br>
+<br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento_Web-E34F26?style=flat&logo=html5&logoColor=white)
+### 📊 Estatísticas
 
-## Contato
-
-<img src="./assets/contato.png" width="70" alt="Ícone de contato">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Belmonte-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbelmontez/)
-[![GitHub](https://img.shields.io/badge/GitHub-Belmontezz-181717?style=flat&logo=github&logoColor=white)](https://github.com/Belmontezz)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gabrielbelmontemdossantos@gmail.com)
+<p align="left">
+  <img alt="Estatísticas do GitHub" height="165" src="https://github-readme-stats.vercel.app/api?username=Belmontezz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br">
+  <img alt="Linguagens mais usadas" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belmontezz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6">
+</p>
